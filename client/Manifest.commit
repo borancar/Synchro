@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: swt.jar mail.jar
+Main-Class: com.atarbes.Synchro.client.Commit
